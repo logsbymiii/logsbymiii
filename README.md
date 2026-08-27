@@ -18,6 +18,10 @@
 <img src="https://img.shields.io/badge/LINKEDIN-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=E5E7EB"/>
 </a>
 
+<a href="https://www.instagram.com/hmfjrr/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0B0D0F?style=for-the-badge&logo=instagram&logoColor=E5E7EB"/>
+</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=logsbymiii&label=PROFILE%20VIEWS&color=2B3036&labelColor=0B0D0F&style=for-the-badge"/>
