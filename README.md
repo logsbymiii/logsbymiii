@@ -1,76 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=HELMI%20MOHAMMAD%20FAJARI&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Business%20Information%20Systems%20%7C%20Backend%20%7C%20Automation%20%7C%20DevOps&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090A,50:16181C,100:2B2F35&height=230&section=header&text=HELMI%20MOHAMMAD%20FAJARI&fontSize=38&fontColor=E6E6E6&fontAlignY=38&desc=BUSINESS%20INFORMATION%20SYSTEMS%20%7C%20BACKEND%20%7C%20AUTOMATION%20%7C%20DEVOPS&descAlignY=59&descSize=14&descColor=A7ADB5&font=Inter" width="100%"/>
 
-<a href="https://github.com/logsbymiii">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Business+Information+Systems+Student;Backend+%7C+Automation+%7C+DevOps;Building+systems+that+solve+real+problems;Learning+to+build+systems+that+hold+up." />
-</a>
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=D1D5DB&center=true&vCenter=true&width=780&height=45&lines=Business+Information+Systems+Student;Backend+%7C+Automation+%7C+DevOps;Building+systems+that+solve+real+problems;Learning+to+build+systems+that+hold+up." />
 
-<a href="https://github.com/logsbymiii">
-  <img src="https://komarev.com/ghpvc/?username=logsbymiii&label=PROFILE%20VIEWS&color=161B22&style=for-the-badge" />
-</a>
-<a href="https://github.com/logsbymiii?tab=followers">
-  <img src="https://img.shields.io/github/followers/logsbymiii?label=FOLLOWERS&style=for-the-badge&color=161B22" />
-</a>
-<a href="https://github.com/logsbymiii?tab=repositories">
-  <img src="https://img.shields.io/github/stars/logsbymiii?label=STARS&style=for-the-badge&color=161B22" />
-</a>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=logsbymiii&label=PROFILE%20VIEWS&color=2B2F35&style=for-the-badge&labelColor=08090A"/>
 
 </div>
 
 ---
 
-## `whoami`
+<h2>01 / WHOAMI</h2>
 
 ```text
 ┌──(helmi㉿polinema)-[~]
-└─$ cat about.txt
 
-> Business Information Systems student at Polinema
-> Focused on backend engineering, automation & infrastructure
-> Interested in DevOps and IT consulting
-> Based in Malang, Indonesia
+$ whoami
 
-Currently learning:
-    ├── Backend Engineering
-    ├── Automation & Workflow Systems
-    ├── DevOps & Infrastructure
-    └── Cloud Technologies
+helmi@polinema
 
-Philosophy:
-    "Don't just make it run.
-     Make it reliable."
+Business Information Systems student
+Backend & Automation enthusiast
+Exploring DevOps and Cloud Infrastructure
+
+Location    : Malang, Indonesia
+Focus       : Systems / Automation / Infrastructure
+Mindset     : Reliability over complexity
+
+$ _
 ```
 
 ---
 
-## `⚙️ CURRENTLY BUILDING`
+<h2>02 / CURRENTLY</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 Automation Systems
+### SYSTEMS
 
-Building systems that connect:
+Building software around **real operational problems**.
 
-`Business Process` → `Automation` → `Data` → `Reporting`
+I like turning:
 
-Trying to eliminate repetitive work and turn manual workflows into reliable systems.
+`manual process`
+
+into
+
+`structured system`
+
+into
+
+`automated workflow`
 
 </td>
 
 <td width="50%">
 
-### ☁️ DevOps Journey
+### INFRASTRUCTURE
 
-Currently exploring:
+Currently moving deeper into:
 
 `Linux` → `Docker` → `CI/CD` → `Cloud`
 
-Learning how applications move from **"works on my machine"** to **"works reliably in production."**
+The goal isn't just making applications work.
+
+It's understanding **why they keep working.**
 
 </td>
 </tr>
@@ -78,59 +78,53 @@ Learning how applications move from **"works on my machine"** to **"works reliab
 
 ---
 
-## `🧠 TECH STACK`
+<h2>03 / STACK</h2>
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=php,java,js,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=php,java,js,html,css,sql" />
+<br><br>
 
-### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql" />
+<br><br>
 
-### Automation & DevOps
+<img src="https://skillicons.dev/icons?i=n8n,docker,linux,git,github,postman&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=n8n,docker,linux,git,github,postman" />
+<br><br>
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,canva" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,canva&theme=dark" />
 
 </div>
 
 ---
 
-## `🚀 FEATURED PROJECTS`
+<h2>04 / SELECTED WORK</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AutoGampang.id
+### `01` — AutoGampang.id
 
-AI-powered Telegram bot for automated personal finance tracking.
+**AI-powered personal finance automation**
 
-**Stack**
+OCR + Telegram + n8n + Google Sheets
 
-`OCR` `Telegram Bot` `n8n` `Google Sheets`
-
-Designed to reduce manual financial data entry by turning receipt information into structured transactions.
+Designed to reduce repetitive financial data entry and transform receipts into structured transactions.
 
 </td>
 
 <td width="50%">
 
-### 🏢 Herbigreen Automation
+### `02` — Herbigreen
 
-Automated reporting architecture for internal operations.
+**Operational reporting automation**
 
-**Stack**
+Laravel + n8n + Reporting
 
-`Laravel` `n8n` `Automation` `Reporting`
-
-Built around real operational workflows to replace repetitive manual reporting with a structured pipeline.
+Built around real business workflows to replace repetitive manual reporting with a structured and repeatable pipeline.
 
 </td>
 </tr>
@@ -138,27 +132,27 @@ Built around real operational workflows to replace repetitive manual reporting w
 <tr>
 <td width="50%">
 
-### 📸 Kamou Studio
+### `03` — Kamou Studio
 
-Photography studio landing page & booking system.
+**Photography studio system**
 
-**Stack**
+Laravel + PHP + MySQL
 
-`Laravel` `PHP` `MySQL` `UI/UX`
-
-A practical project exploring how information systems can support real-world business operations.
+Landing page and booking workflow designed around a real-world business use case.
 
 </td>
 
 <td width="50%">
 
-### 🧪 More Experiments
+### `04` — Experiments
 
-Small systems, APIs, automation workflows and experiments.
+**Small systems & automation**
 
-Some projects start with a simple question:
+APIs + workflows + backend experiments
 
-> "Can this boring process be automated?"
+Most experiments start with one question:
+
+> Can this boring process be automated?
 
 </td>
 </tr>
@@ -166,65 +160,85 @@ Some projects start with a simple question:
 
 ---
 
-## `📊 GITHUB ACTIVITY`
+<h2>05 / 2026 ROADMAP</h2>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=logsbymiii&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logsbymiii&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+<img src="./assets/helmi-roadmap.gif" width="95%"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=logsbymiii&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## `📈 CONTRIBUTION GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=logsbymiii&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## `🎯 2026 ROADMAP`
+<br>
 
 ```text
-SYSTEMS
-████████████████░░░░  Backend Engineering
-
-AUTOMATION
-███████████████░░░░░  Workflow Automation
-
-DEVOPS
-███████████░░░░░░░░░  Docker / CI/CD / Linux
-
-CLOUD
-███████░░░░░░░░░░░░░  Cloud Infrastructure
-
-ARCHITECTURE
-██████░░░░░░░░░░░░░░  System Design
+01  BACKEND          ████████████████░░░░
+02  AUTOMATION       ███████████████░░░░░
+03  DEVOPS           ███████████░░░░░░░░░
+04  CLOUD            ███████░░░░░░░░░░░░░
+05  ARCHITECTURE     ██████░░░░░░░░░░░░░░
 ```
-
-My goal isn't to collect technologies.
-
-It's to understand **how systems work together.**
 
 ---
 
-## `💭 APPROACH`
+<h2>06 / GITHUB ANALYTICS</h2>
 
-> I would rather ship something small that works reliably
-> than something large that half-works.
+<div align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=logsbymiii&show_icons=true&hide_border=true&bg_color=08090A&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&ring_color=71717A&include_all_commits=true&count_private=true"
+height="180"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=logsbymiii&layout=compact&hide_border=true&bg_color=08090A&title_color=E5E7EB&text_color=9CA3AF"
+height="180"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=logsbymiii&background=08090A&border=2B2F35&stroke=2B2F35&ring=9CA3AF&fire=D1D5DB&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280"
+width="75%"
+/>
+
+</div>
+
+---
+
+<h2>07 / CONTRIBUTION</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+<h2>08 / APPROACH</h2>
+
+<div align="center">
+
+```text
+        SIMPLE
+          │
+          ▼
+       RELIABLE
+          │
+          ▼
+      AUTOMATED
+          │
+          ▼
+       SCALABLE
+```
+
+</div>
+
+> I would rather ship something small that works reliably than something large that half-works.
 
 Most of what I build starts with a real problem:
 
@@ -232,52 +246,57 @@ Most of what I build starts with a real problem:
 
 ---
 
-## `📫 LET'S CONNECT`
+<h2>09 / DIRECTION</h2>
+
+```text
+                    HELMI
+
+        BUSINESS INFORMATION SYSTEMS
+                    │
+                    ▼
+              BACKEND SYSTEMS
+                    │
+                    ▼
+                AUTOMATION
+                    │
+                    ▼
+                 DEVOPS
+                    │
+                    ▼
+             CLOUD / INFRA
+                    │
+                    ▼
+             SYSTEM ARCHITECTURE
+```
+
+I'm not trying to collect technologies.
+
+I'm trying to understand **how systems fit together.**
+
+---
 
 <div align="center">
 
-<a href="https://github.com/logsbymiii">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=650&height=35&lines=BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE.;MAKE+IT+WORK.+MAKE+IT+RELIABLE." />
+
+<br><br>
+
+<a href="https://github.com/logsbymiii">
+<img src="https://img.shields.io/badge/GITHUB-08090A?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=08090A"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-08090A?style=for-the-badge&logo=gmail&logoColor=E5E7EB&labelColor=08090A"/>
 </a>
 
-</div>
+<br><br>
 
-<br/>
+<sub>Malang, Indonesia · 2026</sub>
 
-<div align="center">
+<br><br>
 
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   BUILD SYSTEMS, NOT JUST SOFTWARE.           │
-│                                               │
-│                 — Helmi                      │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2F35,50:16181C,100:08090A&height=120&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer" width="100%"/>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake.svg">
-
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake.svg">
-</picture>
