@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/GITHUB-0B0D0F?style=for-the-badge&logo=github&logoColor=E5E7EB"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:helmifajari1927@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0B0D0F?style=for-the-badge&logo=gmail&logoColor=E5E7EB"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/helmi-mohammad-fajari/">
 <img src="https://img.shields.io/badge/LINKEDIN-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=E5E7EB"/>
 </a>
 
