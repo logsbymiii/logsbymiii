@@ -35,65 +35,15 @@
 
 <td width="48%" valign="top">
 
-## `01 / WHOAMI`
+<div align="center">
 
-```text
-┌──(helmi㉿polinema)-[~]
+<img
+  src="./assets/helmi-whoami-currently-v2.svg"
+  width="100%"
+  alt="Helmi — Whoami and Currently"
+/>
 
-$ whoami
-
-helmi@polinema
-
-Business Information Systems student
-Backend & Automation enthusiast
-Exploring DevOps & Cloud Infrastructure
-
-LOCATION    Malang, Indonesia
-FOCUS       Systems / Automation / Infrastructure
-MINDSET     Reliability over complexity
-
-$ _
-```
-
-</td>
-
-<td width="52%" valign="top">
-
-## `02 / CURRENTLY`
-
-### SYSTEMS
-
-Building around real operational problems.
-
-```text
-01  REAL PROBLEM
-        ↓
-02  STRUCTURE
-        ↓
-03  AUTOMATION
-        ↓
-04  RELIABILITY
-```
-
-### INFRASTRUCTURE
-
-```text
-LINUX → DOCKER → CI/CD → CLOUD
-```
-
-Learning how systems move from:
-
-`works locally`
-
-to
-
-`works reliably`
-
-</td>
-
-</tr>
-</table>
-
+</div>
 ---
 
 ## `03 / STACK`
