@@ -379,3 +379,47 @@ AUTOMATE
 RELIABLE
   ↓
 SCALE
+```
+</div>
+<br>
+
+I would rather ship something small that works reliably than something large that half-works.
+
+<br> <sub> Most things I build start with a real problem: remove friction → automate the process → make the system reliable. </sub> </td> <td width="58%" valign="top">
+09 / DIRECTION
+<div align="center"> <br>
+BUSINESS SYSTEMS
+        ↓
+     BACKEND
+        ↓
+    AUTOMATION
+        ↓
+      DEVOPS
+        ↓
+      CLOUD
+        ↓
+  ARCHITECTURE
+<br> </div>
+
+I'm not trying to collect technologies.
+
+I'm trying to understand how systems fit together.
+
+<br> <div align="center">
+
+SYSTEMS · AUTOMATION · INFRASTRUCTURE
+
+</div> </td> </tr> </table>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&height=35&lines=BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE.;MAKE+IT+WORK.+MAKE+IT+RELIABLE.;KEEP+SHIPPING." alt="Closing statement" />
+
+<br><br>
+
+<sub>© 2026 Helmi Mohammad Fajari · Malang, Indonesia</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D333B,50:161B22,100:08090A&height=100&section=footer" width="100%" alt="Footer" />
+
+</div> ```
