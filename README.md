@@ -28,6 +28,7 @@
 
 <table>
 <tr>
+
 <td width="48%" valign="top">
 
 ## `01 / WHOAMI`
@@ -85,6 +86,7 @@ to
 `works reliably`
 
 </td>
+
 </tr>
 </table>
 
@@ -94,11 +96,12 @@ to
 
 <table>
 <tr>
+
 <td align="center" width="20%">
 
 **LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=php,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,java,js,html,css&theme=dark"/>
 
 </td>
 
@@ -106,7 +109,7 @@ to
 
 **BACKEND**
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs&theme=dark"/>
 
 </td>
 
@@ -114,7 +117,7 @@ to
 
 **DATABASE**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
 
 </td>
 
@@ -122,7 +125,7 @@ to
 
 **DEVOPS**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github&theme=dark"/>
 
 </td>
 
@@ -130,9 +133,10 @@ to
 
 **TOOLS**
 
-<img src="https://skillicons.dev/icons?i=n8n,postman,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=n8n,postman,vscode,figma&theme=dark"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -147,7 +151,7 @@ to
 
 ### `01`
 
-### AutoGampang.id
+**AutoGampang.id**
 
 `AI` `OCR` `TELEGRAM` `N8N`
 
@@ -161,7 +165,7 @@ Turns receipt data into structured financial records with minimal manual entry.
 
 ### `02`
 
-### Herbigreen
+**Herbigreen**
 
 `LARAVEL` `N8N` `REPORTING`
 
@@ -175,7 +179,7 @@ Built around real workflows to replace repetitive manual reporting.
 
 ### `03`
 
-### Kamou Studio
+**Kamou Studio**
 
 `LARAVEL` `PHP` `MYSQL`
 
@@ -189,7 +193,7 @@ Landing page and booking workflow for a real business use case.
 
 ### `04`
 
-### Experiments
+**Experiments**
 
 `API` `N8N` `BACKEND`
 
@@ -217,7 +221,7 @@ Build → test → break → learn → improve.
 <table>
 <tr align="center">
 
-<td>
+<td width="20%">
 
 **01**
 
@@ -228,9 +232,9 @@ System fundamentals
 
 </td>
 
-<td>→</td>
+<td width="5%">→</td>
 
-<td>
+<td width="20%">
 
 **02**
 
@@ -241,9 +245,9 @@ Process optimization
 
 </td>
 
-<td>→</td>
+<td width="5%">→</td>
 
-<td>
+<td width="20%">
 
 **03**
 
@@ -254,9 +258,9 @@ CI/CD · Monitoring
 
 </td>
 
-<td>→</td>
+<td width="5%">→</td>
 
-<td>
+<td width="20%">
 
 **04**
 
@@ -267,9 +271,9 @@ Production systems
 
 </td>
 
-<td>→</td>
+<td width="5%">→</td>
 
-<td>
+<td width="20%">
 
 **05**
 
@@ -290,42 +294,54 @@ Scalable thinking
 
 <td width="52%" valign="top">
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ## `06 / GITHUB ACTIVITY`
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=logsbymiii&show_icons=true&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&include_all_commits=true"
+src="./profile/stats.svg"
 width="100%"
+alt="GitHub statistics"
+/>
+
+<br>
+
+<img
+src="./profile/top-langs.svg"
+width="100%"
+alt="Top languages"
 />
 
 </div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ## `07 / CONTRIBUTION`
 
 <div align="center">
 
 <picture>
+
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg"/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake.svg"/>
 
 <img
 src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg"
 width="100%"
-alt="GitHub contribution snake"
-/>
+alt="GitHub contribution snake"/>
 
 </picture>
+
+<br><br>
+
+<sub>contribution activity</sub>
 
 </div>
 
@@ -333,6 +349,13 @@ alt="GitHub contribution snake"
 
 </tr>
 </table>
+
+---
+
+<table>
+<tr>
+
+<td width="42%" valign="top">
 
 ## `08 / APPROACH`
 
@@ -391,7 +414,7 @@ I'm trying to understand **how systems fit together.**
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&height=35&lines=BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE.;MAKE+IT+WORK.+MAKE+IT+RELIABLE.;KEEP+SHIPPING." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&height=35&lines=BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE.;MAKE+IT+WORK.+MAKE+IT+RELIABLE.;KEEP+SHIPPING."/>
 
 <br><br>
 
