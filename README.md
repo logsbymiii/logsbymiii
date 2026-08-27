@@ -290,37 +290,42 @@ Scalable thinking
 
 <td width="52%" valign="top">
 
-## `06 / GITHUB ANALYTICS`
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## `06 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=logsbymiii&show_icons=true&hide_border=true&bg_color=08090A&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&ring_color=71717A&include_all_commits=true&count_private=true" width="100%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logsbymiii&layout=compact&hide_border=true&bg_color=08090A&title_color=E5E7EB&text_color=9CA3AF&langs_count=6" width="100%"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=logsbymiii&show_icons=true&theme=transparent&hide_border=true&title_color=E5E7EB&text_color=9CA3AF&icon_color=D1D5DB&include_all_commits=true"
+width="100%"
+/>
 
 </div>
 
 </td>
 
-<td width="48%" valign="top">
+<td width="50%" valign="top">
 
 ## `07 / CONTRIBUTION`
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake.svg">
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg">
 
-<img src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+<img
+src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub contribution snake"
+/>
 
 </picture>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=logsbymiii&background=08090A&border=2B2F35&stroke=2B2F35&ring=9CA3AF&fire=D1D5DB&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=9CA3AF&sideLabels=9CA3AF&dates=6B7280" width="100%"/>
 
 </div>
 
@@ -328,13 +333,6 @@ Scalable thinking
 
 </tr>
 </table>
-
----
-
-<table>
-<tr>
-
-<td width="42%" valign="top">
 
 ## `08 / APPROACH`
 
