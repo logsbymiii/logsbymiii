@@ -1,22 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090A,50:16181C,100:2B2F35&height=230&section=header&text=HELMI%20MOHAMMAD%20FAJARI&fontSize=38&fontColor=E6E6E6&fontAlignY=38&desc=BUSINESS%20INFORMATION%20SYSTEMS%20%7C%20BACKEND%20%7C%20AUTOMATION%20%7C%20DEVOPS&descAlignY=59&descSize=14&descColor=A7ADB5&font=Inter" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090A,50:16181C,100:30343A&height=210&section=header&text=HELMI%20MOHAMMAD%20FAJARI&fontSize=37&fontColor=F0F0F0&fontAlignY=40&desc=BUSINESS%20INFORMATION%20SYSTEMS%20%E2%80%94%20BACKEND%20%E2%80%94%20AUTOMATION%20%E2%80%94%20DEVOPS&descAlignY=61&descSize=13&descColor=A1A1AA&font=Space+Grotesk" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=D1D5DB&center=true&vCenter=true&width=780&height=45&lines=Business+Information+Systems+Student;Backend+%7C+Automation+%7C+DevOps;Building+systems+that+solve+real+problems;Learning+to+build+systems+that+hold+up." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1000&color=C7CBD1&center=true&vCenter=true&width=760&height=35&lines=BUSINESS+INFORMATION+SYSTEMS+STUDENT;BACKEND+%2F+AUTOMATION+%2F+DEVOPS;BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;RELIABILITY+OVER+COMPLEXITY." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=logsbymiii&label=PROFILE%20VIEWS&color=2B2F35&style=for-the-badge&labelColor=08090A"/>
+<a href="https://github.com/logsbymiii">
+<img src="https://img.shields.io/badge/GITHUB-0B0D0F?style=for-the-badge&logo=github&logoColor=E5E7EB"/>
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B0D0F?style=for-the-badge&logo=gmail&logoColor=E5E7EB"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=logsbymiii&label=PROFILE%20VIEWS&color=3A3D42&style=for-the-badge&labelColor=0B0D0F"/>
 
 </div>
 
 ---
 
-<h2>01 / WHOAMI</h2>
+## `01 / WHOAMI`
 
-```text
+```text id="qv3f8e"
 ┌──(helmi㉿polinema)-[~]
 
 $ whoami
@@ -27,16 +36,16 @@ Business Information Systems student
 Backend & Automation enthusiast
 Exploring DevOps and Cloud Infrastructure
 
-Location    : Malang, Indonesia
-Focus       : Systems / Automation / Infrastructure
-Mindset     : Reliability over complexity
+LOCATION    Malang, Indonesia
+FOCUS       Systems / Automation / Infrastructure
+MINDSET     Reliability over complexity
 
 $ _
 ```
 
 ---
 
-<h2>02 / CURRENTLY</h2>
+## `02 / CURRENTLY`
 
 <table>
 <tr>
@@ -44,17 +53,15 @@ $ _
 
 ### SYSTEMS
 
-Building software around **real operational problems**.
-
-I like turning:
+Building around real operational problems.
 
 `manual process`
 
-into
+↓
 
 `structured system`
 
-into
+↓
 
 `automated workflow`
 
@@ -64,13 +71,13 @@ into
 
 ### INFRASTRUCTURE
 
-Currently moving deeper into:
+Going deeper into:
 
 `Linux` → `Docker` → `CI/CD` → `Cloud`
 
-The goal isn't just making applications work.
+Learning not only how applications run—
 
-It's understanding **why they keep working.**
+but **why they keep running.**
 
 </td>
 </tr>
@@ -78,89 +85,57 @@ It's understanding **why they keep working.**
 
 ---
 
-<h2>03 / STACK</h2>
+## `03 / STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,java,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,java,js,html,css&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=n8n,docker,linux,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=n8n,docker,linux,git,github,postman&theme=dark"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,canva&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,canva&theme=dark"/>
 
 </div>
 
 ---
 
-<h2>04 / SELECTED WORK</h2>
-
-<table>
-<tr>
-<td width="50%">
+## `04 / SELECTED WORK`
 
 ### `01` — AutoGampang.id
 
 **AI-powered personal finance automation**
 
-OCR + Telegram + n8n + Google Sheets
+`OCR` · `Telegram` · `n8n` · `Google Sheets`
 
-Designed to reduce repetitive financial data entry and transform receipts into structured transactions.
-
-</td>
-
-<td width="50%">
+A system designed to turn receipt data into structured financial records with minimal manual entry.
 
 ### `02` — Herbigreen
 
 **Operational reporting automation**
 
-Laravel + n8n + Reporting
+`Laravel` · `n8n` · `Automation` · `Reporting`
 
-Built around real business workflows to replace repetitive manual reporting with a structured and repeatable pipeline.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+A structured reporting pipeline built around real internal workflows.
 
 ### `03` — Kamou Studio
 
 **Photography studio system**
 
-Laravel + PHP + MySQL
+`Laravel` · `PHP` · `MySQL`
 
-Landing page and booking workflow designed around a real-world business use case.
-
-</td>
-
-<td width="50%">
-
-### `04` — Experiments
-
-**Small systems & automation**
-
-APIs + workflows + backend experiments
-
-Most experiments start with one question:
-
-> Can this boring process be automated?
-
-</td>
-</tr>
-</table>
+A landing page and booking workflow built around a real business use case.
 
 ---
 
-<h2>05 / 2026 ROADMAP</h2>
+## `05 / 2026 ROADMAP`
 
 <div align="center">
 
@@ -168,19 +143,15 @@ Most experiments start with one question:
 
 </div>
 
-<br>
+<div align="center">
 
-```text
-01  BACKEND          ████████████████░░░░
-02  AUTOMATION       ███████████████░░░░░
-03  DEVOPS           ███████████░░░░░░░░░
-04  CLOUD            ███████░░░░░░░░░░░░░
-05  ARCHITECTURE     ██████░░░░░░░░░░░░░░
-```
+<sub>BACKEND → AUTOMATION → DEVOPS → CLOUD → ARCHITECTURE</sub>
+
+</div>
 
 ---
 
-<h2>06 / GITHUB ANALYTICS</h2>
+## `06 / GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -209,32 +180,32 @@ width="75%"
 
 ---
 
-<h2>07 / CONTRIBUTION</h2>
+## `07 / CONTRIBUTION`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake.svg">
+  <img
+    src="https://raw.githubusercontent.com/logsbymiii/logsbymiii/output/github-contribution-grid-snake-dark.svg"
+    width="95%"
+    alt="GitHub contribution snake">
+</picture>
 
 </div>
 
 ---
 
-<h2>08 / APPROACH</h2>
+## `08 / APPROACH`
 
 <div align="center">
 
-```text
-        SIMPLE
-          │
-          ▼
-       RELIABLE
-          │
-          ▼
-      AUTOMATED
-          │
-          ▼
-       SCALABLE
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=A1A1AA&center=true&vCenter=true&width=650&height=35&lines=SIMPLE;RELIABLE;AUTOMATED;SCALABLE" />
 
 </div>
 
@@ -246,28 +217,13 @@ Most of what I build starts with a real problem:
 
 ---
 
-<h2>09 / DIRECTION</h2>
+## `09 / DIRECTION`
 
-```text
-                    HELMI
+<div align="center">
 
-        BUSINESS INFORMATION SYSTEMS
-                    │
-                    ▼
-              BACKEND SYSTEMS
-                    │
-                    ▼
-                AUTOMATION
-                    │
-                    ▼
-                 DEVOPS
-                    │
-                    ▼
-             CLOUD / INFRA
-                    │
-                    ▼
-             SYSTEM ARCHITECTURE
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=BUSINESS%20SYSTEMS%20%E2%86%92%20BACKEND%20%E2%86%92%20AUTOMATION%20%E2%86%92%20DEVOPS%20%E2%86%92%20CLOUD&fontSize=18&fontColor=A1A1AA&font=Space+Grotesk" width="95%"/>
+
+</div>
 
 I'm not trying to collect technologies.
 
@@ -277,26 +233,14 @@ I'm trying to understand **how systems fit together.**
 
 <div align="center">
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=650&height=35&lines=BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE.;MAKE+IT+WORK.+MAKE+IT+RELIABLE." />
-
-<br><br>
-
-<a href="https://github.com/logsbymiii">
-<img src="https://img.shields.io/badge/GITHUB-08090A?style=for-the-badge&logo=github&logoColor=E5E7EB&labelColor=08090A"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-08090A?style=for-the-badge&logo=gmail&logoColor=E5E7EB&labelColor=08090A"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=4000&pause=1200&color=8F949B&center=true&vCenter=true&width=650&height=35&lines=BUILD+SYSTEMS%2C+NOT+JUST+SOFTWARE.;MAKE+IT+WORK.+MAKE+IT+RELIABLE." />
 
 <br><br>
 
 <sub>Malang, Indonesia · 2026</sub>
 
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2F35,50:16181C,100:08090A&height=120&section=footer" width="100%"/>
-
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30343A,50:16181C,100:08090A&height=100&section=footer" width="100%"/>
