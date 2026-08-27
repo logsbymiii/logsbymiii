@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E12"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#090B0F"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171C23"/>
+      <stop offset="1" stop-color="#10141A"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8B949E"/>
+      <stop offset="0.5" stop-color="#E5E7EB"/>
+      <stop offset="1" stop-color="#8B949E"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#252B33" stroke-width="1" opacity=".35"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 28px "Space Grotesk","Segoe UI",Arial,sans-serif; fill:#E5E7EB; letter-spacing:1px; }
+      .section { font: 700 22px "Space Grotesk","Segoe UI",Arial,sans-serif; fill:#E5E7EB; letter-spacing:.7px; }
+      .label { font: 700 16px "Space Grotesk","Segoe UI",Arial,sans-serif; fill:#F0F1F2; letter-spacing:.7px; }
+      .body { font: 15px Inter,"Segoe UI",Arial,sans-serif; fill:#C4C9D0; }
+      .code { font: 15px "JetBrains Mono","SFMono-Regular",Consolas,monospace; fill:#E5E7EB; }
+      .small { font: 12px "JetBrains Mono","SFMono-Regular",Consolas,monospace; fill:#8B949E; }
+      .tiny { font: 10px "JetBrains Mono","SFMono-Regular",Consolas,monospace; fill:#69717C; }
+      .line { stroke:#30363D; stroke-width:1; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="760" fill="url(#bg)"/>
+  <rect width="1400" height="760" fill="url(#grid)" opacity=".45"/>
+
+  <!-- ambient network -->
+  <g opacity=".28" stroke="#7C858F" fill="none">
+    <path d="M1010 70L1180 135L1315 85L1360 210L1235 270L1110 220Z"/>
+    <path d="M1010 70L1110 220M1180 135L1235 270M1315 85L1235 270"/>
+  </g>
+  <g fill="#AAB1B9" opacity=".65">
+    <circle cx="1010" cy="70" r="3"/><circle cx="1180" cy="135" r="3"/>
+    <circle cx="1315" cy="85" r="3"/><circle cx="1360" cy="210" r="3"/>
+    <circle cx="1235" cy="270" r="3"/><circle cx="1110" cy="220" r="3"/>
+  </g>
+
+  <!-- top rail -->
+  <text x="48" y="38" class="small">logsbymiii / profile</text>
+  <text x="1352" y="38" class="small" text-anchor="end">SYSTEMS · AUTOMATION · DEVOPS</text>
+  <line x1="48" y1="55" x2="1352" y2="55" class="line"/>
+
+  <!-- LEFT: WHOAMI -->
+  <text x="48" y="105" class="section">01 / WHOAMI</text>
+  <line x1="232" y1="99" x2="620" y2="99" class="line"/>
+
+  <rect x="48" y="128" width="572" height="560" rx="8" fill="url(#panel)" stroke="#343B44"/>
+  <rect x="48" y="128" width="572" height="42" rx="8" fill="#151A20"/>
+  <line x1="48" y1="170" x2="620" y2="170" class="line"/>
+
+  <circle cx="72" cy="149" r="5" fill="#69717C"/>
+  <circle cx="90" cy="149" r="5" fill="#69717C"/>
+  <circle cx="108" cy="149" r="5" fill="#69717C"/>
+  <text x="334" y="154" class="tiny" text-anchor="middle">helmi@polinema — zsh</text>
+
+  <text x="78" y="207" class="code"><tspan fill="#9CA3AF">$</tspan> whoami</text>
+  <text x="78" y="242" class="code" fill="#FFFFFF">helmi@polinema</text>
+
+  <line x1="78" y1="263" x2="590" y2="263" class="line"/>
+
+  <text x="78" y="300" class="label">BUSINESS INFORMATION SYSTEMS</text>
+  <text x="78" y="326" class="body">Backend &amp; Automation enthusiast</text>
+  <text x="78" y="351" class="body">Exploring DevOps &amp; Cloud Infrastructure</text>
+
+  <!-- metrics -->
+  <g>
+    <rect x="78" y="388" width="156" height="76" rx="6" fill="#11151A" stroke="#2F363F"/>
+    <text x="96" y="414" class="tiny">LOCATION</text>
+    <text x="96" y="441" class="code">MALANG, ID</text>
+
+    <rect x="250" y="388" width="156" height="76" rx="6" fill="#11151A" stroke="#2F363F"/>
+    <text x="268" y="414" class="tiny">FOCUS</text>
+    <text x="268" y="441" class="code">SYSTEMS</text>
+
+    <rect x="422" y="388" width="168" height="76" rx="6" fill="#11151A" stroke="#2F363F"/>
+    <text x="440" y="414" class="tiny">MINDSET</text>
+    <text x="440" y="441" class="code">RELIABILITY</text>
+  </g>
+
+  <text x="78" y="507" class="small">CURRENT OBJECTIVE</text>
+  <text x="78" y="538" class="body">Build systems that remove friction,</text>
+  <text x="78" y="562" class="body">automate repetitive work, and stay reliable.</text>
+
+  <line x1="78" y1="594" x2="590" y2="594" class="line"/>
+  <text x="78" y="624" class="small">STATUS</text>
+  <circle cx="142" cy="620" r="5" fill="#D1D5DB" filter="url(#glow)"/>
+  <text x="156" y="624" class="code">BUILDING / LEARNING / SHIPPING</text>
+  <text x="78" y="660" class="code"><tspan fill="#9CA3AF">$</tspan> _</text>
+
+  <!-- RIGHT: CURRENTLY -->
+  <text x="668" y="105" class="section">02 / CURRENTLY</text>
+  <line x1="862" y1="99" x2="1352" y2="99" class="line"/>
+
+  <text x="668" y="148" class="label">SYSTEMS</text>
+  <text x="668" y="171" class="small">building around real operational problems</text>
+
+  <!-- pipeline -->
+  <g>
+    <line x1="700" y1="222" x2="700" y2="482" stroke="#555E68" stroke-width="2" stroke-dasharray="3 7"/>
+    <circle cx="700" cy="230" r="8" fill="#0D1117" stroke="#D1D5DB" stroke-width="2"/>
+    <circle cx="700" cy="230" r="3" fill="#E5E7EB"/>
+    <circle cx="700" cy="314" r="8" fill="#0D1117" stroke="#9CA3AF" stroke-width="2"/>
+    <circle cx="700" cy="314" r="3" fill="#A1A1AA"/>
+    <circle cx="700" cy="398" r="8" fill="#0D1117" stroke="#9CA3AF" stroke-width="2"/>
+    <circle cx="700" cy="398" r="3" fill="#A1A1AA"/>
+    <circle cx="700" cy="482" r="8" fill="#0D1117" stroke="#E5E7EB" stroke-width="2"/>
+    <circle cx="700" cy="482" r="3" fill="#FFFFFF"/>
+
+    <text x="730" y="221" class="tiny">01</text>
+    <text x="766" y="221" class="label">REAL PROBLEM</text>
+    <text x="766" y="244" class="small">understand the root</text>
+
+    <text x="730" y="305" class="tiny">02</text>
+    <text x="766" y="305" class="label">STRUCTURE</text>
+    <text x="766" y="328" class="small">organize the chaos</text>
+
+    <text x="730" y="389" class="tiny">03</text>
+    <text x="766" y="389" class="label">AUTOMATION</text>
+    <text x="766" y="412" class="small">remove repetitive work</text>
+
+    <text x="730" y="473" class="tiny">04</text>
+    <text x="766" y="473" class="label">RELIABILITY</text>
+    <text x="766" y="496" class="small">make it consistent</text>
+  </g>
+
+  <text x="1045" y="148" class="label">INFRASTRUCTURE</text>
+  <text x="1045" y="171" class="small">going deeper into systems</text>
+
+  <!-- infra nodes -->
+  <g>
+    <rect x="1030" y="205" width="105" height="76" rx="7" fill="#12171D" stroke="#353C45"/>
+    <rect x="1150" y="205" width="105" height="76" rx="7" fill="#12171D" stroke="#353C45"/>
+    <rect x="1270" y="205" width="82" height="76" rx="7" fill="#12171D" stroke="#353C45"/>
+    <text x="1082" y="237" text-anchor="middle" class="code">LINUX</text>
+    <text x="1082" y="259" text-anchor="middle" class="tiny">kernel</text>
+    <text x="1202" y="237" text-anchor="middle" class="code">DOCKER</text>
+    <text x="1202" y="259" text-anchor="middle" class="tiny">containers</text>
+    <text x="1311" y="237" text-anchor="middle" class="code">CI/CD</text>
+    <text x="1311" y="259" text-anchor="middle" class="tiny">delivery</text>
+    <path d="M1135 243H1150M1255 243H1270" stroke="#737B84" stroke-width="1.5"/>
+  </g>
+
+  <rect x="1030" y="307" width="322" height="174" rx="7" fill="url(#panel)" stroke="#353C45"/>
+  <text x="1052" y="340" class="small">SYSTEM.STATUS</text>
+  <circle cx="1058" cy="365" r="5" fill="#D1D5DB" filter="url(#glow)"/>
+  <text x="1074" y="370" class="code">running /system.status</text>
+  <line x1="1052" y1="390" x2="1330" y2="390" class="line"/>
+  <text x="1052" y="421" class="body">works locally</text>
+  <text x="1052" y="447" class="small">↓</text>
+  <text x="1080" y="447" class="body">works reliably</text>
+
+  <text x="1030" y="520" class="small">NEXT LAYER</text>
+  <text x="1030" y="550" class="label">CLOUD INFRASTRUCTURE</text>
+  <text x="1030" y="576" class="body">production-ready systems</text>
+  <text x="1030" y="605" class="small">architecture · observability · scale</text>
+
+  <!-- footer rail -->
+  <line x1="48" y1="712" x2="1352" y2="712" class="line"/>
+  <text x="48" y="738" class="tiny">01 / WHOAMI</text>
+  <text x="700" y="738" class="tiny" text-anchor="middle">BUILD SYSTEMS · NOT JUST SOFTWARE</text>
+  <text x="1352" y="738" class="tiny" text-anchor="end">02 / CURRENTLY</text>
+</svg>
