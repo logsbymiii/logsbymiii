@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E12"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171C23"/>
+      <stop offset="1" stop-color="#10141A"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#252B33" stroke-width="1" opacity=".3"/>
+    </pattern>
+    <style>
+      .section { font:700 22px "Space Grotesk","Segoe UI",Arial,sans-serif; fill:#E5E7EB; letter-spacing:.7px }
+      .label { font:700 15px "Space Grotesk","Segoe UI",Arial,sans-serif; fill:#E5E7EB; letter-spacing:.7px }
+      .body { font:15px Inter,"Segoe UI",Arial,sans-serif; fill:#C4C9D0 }
+      .code { font:14px "JetBrains Mono","SFMono-Regular",Consolas,monospace; fill:#DDE1E5 }
+      .small { font:11px "JetBrains Mono","SFMono-Regular",Consolas,monospace; fill:#7F8994 }
+      .line { stroke:#30363D; stroke-width:1 }
+    </style>
+  </defs>
+
+  <rect width="1400" height="470" fill="url(#bg)"/>
+  <rect width="1400" height="470" fill="url(#grid)"/>
+
+  <text x="42" y="42" class="section">08 / APPROACH</text>
+  <line x1="225" y1="36" x2="650" y2="36" class="line"/>
+
+  <text x="720" y="42" class="section">09 / DIRECTION</text>
+  <line x1="925" y1="36" x2="1358" y2="36" class="line"/>
+
+  <!-- Approach panel -->
+  <rect x="42" y="68" width="608" height="330" rx="8" fill="url(#panel)" stroke="#343B44"/>
+  <text x="72" y="105" class="small">ENGINEERING PRINCIPLE</text>
+  <text x="72" y="139" class="body">I would rather ship something small</text>
+  <text x="72" y="164" class="body">that works reliably than something large</text>
+  <text x="72" y="189" class="body">that half-works.</text>
+
+  <line x1="72" y1="215" x2="620" y2="215" class="line"/>
+
+  <!-- horizontal approach pipeline -->
+  <g>
+    <circle cx="112" cy="276" r="25" fill="#0D1117" stroke="#AEB5BD" stroke-width="1.5"/>
+    <text x="112" y="281" text-anchor="middle" class="code">01</text>
+    <text x="112" y="324" text-anchor="middle" class="label">REMOVE</text>
+    <text x="112" y="345" text-anchor="middle" class="small">friction</text>
+
+    <line x1="137" y1="276" x2="230" y2="276" stroke="#69727C" stroke-width="1.5"/>
+    <polygon points="230,276 221,271 221,281" fill="#69727C"/>
+
+    <circle cx="255" cy="276" r="25" fill="#0D1117" stroke="#AEB5BD" stroke-width="1.5"/>
+    <text x="255" y="281" text-anchor="middle" class="code">02</text>
+    <text x="255" y="324" text-anchor="middle" class="label">AUTOMATE</text>
+    <text x="255" y="345" text-anchor="middle" class="small">process</text>
+
+    <line x1="280" y1="276" x2="373" y2="276" stroke="#69727C" stroke-width="1.5"/>
+    <polygon points="373,276 364,271 364,281" fill="#69727C"/>
+
+    <circle cx="398" cy="276" r="25" fill="#0D1117" stroke="#AEB5BD" stroke-width="1.5"/>
+    <text x="398" y="281" text-anchor="middle" class="code">03</text>
+    <text x="398" y="324" text-anchor="middle" class="label">RELIABLE</text>
+    <text x="398" y="345" text-anchor="middle" class="small">consistency</text>
+
+    <line x1="423" y1="276" x2="516" y2="276" stroke="#69727C" stroke-width="1.5"/>
+    <polygon points="516,276 507,271 507,281" fill="#69727C"/>
+
+    <circle cx="541" cy="276" r="25" fill="#0D1117" stroke="#E5E7EB" stroke-width="1.5"/>
+    <text x="541" y="281" text-anchor="middle" class="code">04</text>
+    <text x="541" y="324" text-anchor="middle" class="label">SCALE</text>
+    <text x="541" y="345" text-anchor="middle" class="small">when ready</text>
+  </g>
+
+  <text x="72" y="378" class="small">REMOVE FRICTION → AUTOMATE PROCESS → MAKE IT RELIABLE → SCALE</text>
+
+  <!-- Direction panel -->
+  <rect x="720" y="68" width="638" height="330" rx="8" fill="url(#panel)" stroke="#343B44"/>
+
+  <text x="752" y="105" class="small">LONG-TERM DIRECTION</text>
+  <text x="752" y="139" class="body">Not collecting technologies.</text>
+  <text x="752" y="164" class="body">Understanding how systems fit together.</text>
+
+  <line x1="752" y1="190" x2="1326" y2="190" class="line"/>
+
+  <!-- Direction architecture -->
+  <g>
+    <rect x="752" y="224" width="112" height="48" rx="6" fill="#11161C" stroke="#3B434D"/>
+    <text x="808" y="253" text-anchor="middle" class="code">BUSINESS</text>
+
+    <line x1="864" y1="248" x2="896" y2="248" stroke="#737B84" stroke-width="1.5"/>
+    <polygon points="896,248 887,243 887,253" fill="#737B84"/>
+
+    <rect x="896" y="224" width="92" height="48" rx="6" fill="#11161C" stroke="#3B434D"/>
+    <text x="942" y="253" text-anchor="middle" class="code">BACKEND</text>
+
+    <line x1="988" y1="248" x2="1020" y2="248" stroke="#737B84" stroke-width="1.5"/>
+    <polygon points="1020,248 1011,243 1011,253" fill="#737B84"/>
+
+    <rect x="1020" y="224" width="116" height="48" rx="6" fill="#11161C" stroke="#3B434D"/>
+    <text x="1078" y="253" text-anchor="middle" class="code">AUTOMATION</text>
+
+    <line x1="1136" y1="248" x2="1168" y2="248" stroke="#737B84" stroke-width="1.5"/>
+    <polygon points="1168,248 1159,243 1159,253" fill="#737B84"/>
+
+    <rect x="1168" y="224" width="82" height="48" rx="6" fill="#11161C" stroke="#3B434D"/>
+    <text x="1209" y="253" text-anchor="middle" class="code">DEVOPS</text>
+
+    <line x1="1250" y1="248" x2="1282" y2="248" stroke="#737B84" stroke-width="1.5"/>
+    <polygon points="1282,248 1273,243 1273,253" fill="#737B84"/>
+
+    <rect x="1282" y="224" width="76" height="48" rx="6" fill="#11161C" stroke="#E5E7EB"/>
+    <text x="1320" y="253" text-anchor="middle" class="code">CLOUD</text>
+  </g>
+
+  <text x="752" y="315" class="small">CORE IDEA</text>
+  <text x="752" y="346" class="label">SYSTEMS → AUTOMATION → INFRASTRUCTURE</text>
+  <text x="752" y="373" class="small">build understanding first · choose technology second</text>
+</svg>
