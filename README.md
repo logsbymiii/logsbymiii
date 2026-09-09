@@ -1,10 +1,6 @@
 <div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:08090A,45:12161A,100:2D333B&height=220&section=header&text=HELMI%20MOHAMMAD%20FAJARI&fontSize=40&fontColor=E6E7E9&fontAlignY=40&desc=BUSINESS%20INFORMATION%20SYSTEMS%20%E2%80%94%20BACKEND%20%E2%80%94%20AUTOMATION%20%E2%80%94%20DEVOPS&descAlignY=62&descSize=13&descColor=A1A1AA&font=Space%20Grotesk"
-width="100%"
-alt="Helmi Mohammad Fajari"
-/>
+  
+<img src="./assets/linkedin-banner.svg" width="100%" alt="Helmi Mohammad Fajari"/>
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=D1D5DB&center=true&vCenter=true&width=760&height=35&lines=BUSINESS+INFORMATION+SYSTEMS+STUDENT;BACKEND+%2F+AUTOMATION+%2F+DEVOPS;BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;RELIABILITY+OVER+COMPLEXITY."
